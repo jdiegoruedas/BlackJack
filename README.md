@@ -4,4 +4,4 @@ A simple code of blackjack for my python bootcamp. It allows the user to play th
 
 I used while and for loops, if, elif, else, functions and more.
 
-Take a look1
+Take a look!
